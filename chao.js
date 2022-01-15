@@ -14,4 +14,4 @@ document.write('<br>');
 document.write('Anh yêu thương, đừng bao giờ rời xa em nữa nhé. Yêu anh rất nhiều.');
 document.write('<br>');
 document.write('<br>');
-document.write(diaDiem + ',' + ' ' + thoiGian + '"');
+document.write(diaDiem + ',' + ' ' + thoiGian + '.' +'"');
